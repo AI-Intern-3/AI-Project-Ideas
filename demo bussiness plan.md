@@ -10,8 +10,8 @@ CollegeTips.in is a forward-thinking platform dedicated to empowering college st
 
 **Our Reach:**
 
-- User Base: Over 1 million active users
-- Social Media Presence: More than 500,000 followers across various platforms
+- User Base: Over 10000 active users
+- Social Media Presence: More than 5000 followers across various platforms
 - Content: Regularly updated with articles, videos, and interactive content
 - Events: Hosts workshops, webinars, and other college-focused events
 
@@ -46,12 +46,7 @@ CollegeTips.in is a forward-thinking platform dedicated to empowering college st
 3. **Zudio:**
    - Share fashion tips and styling guides.
    - Partner with student influencers for brand ambassadorships.
-   - Sponsor fashion events and styling competitions.
-
-4. **Sugar:**
-   - Feature makeup tutorials and beauty hacks.
-   - Host product launch events and previews.
-   - Organize beauty contests and makeup challenges.
+   - Sponsor fashion events and styling.
 
 **Conclusion:**
 
@@ -59,14 +54,5 @@ Partnering with CollegeTips.in provides your brand with an exceptional opportuni
 
 **Contact Us:**
 
-- Email: partnership@collegetips.in
-- Phone: +91-123-456-7890
+- Phone: 
 - Website: [www.collegetips.in](http://www.collegetips.in)
-
-Let’s explore how we can collaborate to achieve outstanding results!
-
-Sincerely,
-
-[Your Name]  
-[Your Position]  
-CollegeTips.in
